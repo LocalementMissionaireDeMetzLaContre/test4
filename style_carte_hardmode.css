@@ -37,8 +37,8 @@ body{
 }
 
 .card{
-  width: 90vw;
-  height: 90vh;
+  width: 100vw;
+  height: 100vh;
   position:relative;
   transform-style:preserve-3d;
   transition: transform .7s cubic-bezier(.25,.8,.25,1), box-shadow .3s;
